@@ -8,11 +8,11 @@ I competed in the UBC Engineering Physics Robot Competition over the summer of 2
  
 Below is a video of our robot utilizing IR sensors to pick up the passenger, then navigate to the N-Zone area for drop-off.
 
-<video src="robot_in_action.mp4" poster="robot_in_action_Moment.jpg" width="320" height="200" controls preload></video>
+<video src="https://basilwong.github.io/files/robot_in_action.mp4" poster="https://basilwong.github.io/files/robot_in_action_Moment.jpg" width="320" height="200" controls preload></video>
 
 Full robot promo video:
 
-<video src="robot_promo.mp4" poster="robot_promo_Moment.jpg" width="320" height="200" controls preload></video>
+<video src="https://basilwong.github.io/files/robot_promo.mp4" poster="https://basilwong.github.io/files/robot_promo_Moment.jpg" width="320" height="200" controls preload></video>
 
 
 
