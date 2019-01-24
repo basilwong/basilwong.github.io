@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Eningeering Physics Robot Competition"
+excerpt: "Fully Autonomous Uber Bots Racing to Pickup Passengers<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<video src="robot_in_action.mp4" poster="robot_in_action_Moment.jpg" width="320" height="200" controls preload></video>
+
+<video src="robot_promo.mp4" poster="robot_promo_Moment.jpg" width="320" height="200" controls preload></video>
+
+
+
+
