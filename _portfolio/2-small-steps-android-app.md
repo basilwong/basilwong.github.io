@@ -1,18 +1,14 @@
 ---
-title: "Eningeering Physics Robot Competition"
-excerpt: "Fully Autonomous Uber Bots Racing to Pickup Passengers<br/><img src='robot_promo_Moment.jpg'>"
+title: "Small Steps Android App"
+excerpt: "Android App for Tracking Exposure Therapy Progress for Users Suffering from PTSD<br/><img src='robot_promo_Moment.jpg'>"
 collection: portfolio
 ---
 
-I competed in the 2018 Lumohacks hackathon. Our groups final product was an Android App we called small steps.
- 
-Below is a video of our robot utilizing IR sensors to pick up the passenger and detect objects then navigating to the N-Zone area for drop-off:
+I competed in the 2018 Lumohacks hackathon. The theme of this hackathon was mental health. Our group's final product was an Android app we called small steps. From the beginning, we wanted to create an app that could help first responders and veterans with PTSD. Originally, the goal was to use a fitbit to track the user's heartbeat when they feel anxious, but after talking to the onsite therapists and field experts our group decided to take simpler and more applicable approach. While talking to the onsite doctors, we were told that fluctuations in heartbeat do not directly correlate with anxiety attacks. Additionally, we learned that one of the obstacles therapists find is the expression of how the patient feels when exposed to a trigger. Together we came up with a possible solution that would make this expression easier, the final idea for Small Steps. The app was designed to be used for tracking and logging the progress of PTSD patients undergoing exposure therapy. Exposure therapy is the practice of exposing someone to a trigger of anxiety to help them overcome it overtime.
 
-<video src="https://basilwong.github.io/files/robot_in_action.mp4" poster="https://basilwong.github.io/files/robot_in_action_Moment.jpg" width="320" height="200" controls preload></video>
+A lot of thinking went into the logging note screen, as to make it as easy as possible to fill out:
 
-Full robot promo video:
-
-<video src="https://basilwong.github.io/files/robot_promo.mp4" poster="https://basilwong.github.io/files/robot_promo_Moment.jpg" width="320" height="200" controls preload></video>
+[](https://basilwong.github.io/files/small-steps/login.jpg)
 
 
 
