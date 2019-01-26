@@ -8,7 +8,13 @@ I competed in the 2018 Lumohacks hackathon. The theme of this hackathon was ment
 
 A lot of thinking went into the logging note screen, as to make it as easy as possible to fill out:
 
-[](https://basilwong.github.io/files/small-steps/login.jpg)
+![](https://basilwong.github.io/files/small-steps/open.jpg)
+
+![](https://basilwong.github.io/files/small-steps/login.jpg)
+
+![](https://basilwong.github.io/files/small-steps/logscreen.jpg)
+
+![](https://basilwong.github.io/files/small-steps/progress.jpg)
 
 
 
