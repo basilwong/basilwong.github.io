@@ -67,10 +67,12 @@ Other Experience
   * Employed Console Developer Software(Xbox One Manager, PS4 Neighborhood, Juice) to log and analyze game data and crash logs   
   
 **Harmony Arts Festival - Production Crew Member (Jun 2013 - Jul 2013) Vancouver, Canada**
-  * 
+  * Worked in a team to setup and takedown the festival infrastucture
+	* Build/takedown of tests, stages, art displays
 
 **Indigo Books - Customer Service Rep./Cashier/Stock  (Jun 2011 - Dec 2011) Vancouver, Canada**
-  * 
+  * Leveraged knowledge of books from personal reading to help customers
+  * Worked on the cashier and inventory team
 
 
 
