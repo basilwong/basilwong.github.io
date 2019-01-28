@@ -1,1 +1,1 @@
-Go to basilwong.io to visit my website!
+Go to [basilwong.github.io](basilwong.github.io) to visit my website!
