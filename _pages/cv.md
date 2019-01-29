@@ -74,13 +74,4 @@ Other Experience
   * Leveraged knowledge of books from personal reading to help customers
   * Worked on the cashier and inventory team
 
-  
-  
-[<img src='https://basilwong.github.io/files/logos/WALUSLAB.png' height='150'>](https://waluslab.ece.ubc.ca/) <br/>
-
-[<img src='https://basilwong.github.io/files/logos/ubcorbit.png' height='150'>](https://www.ubcorbit.com/) <br/>
-
-[<img src='https://basilwong.github.io/files/logos/Neurio_logo.png' height='150'>](https://www.neur.io/) <br/> 
-
-[<img src='https://basilwong.github.io/files/logos/intel_logo.png' height='150'>](https://www.intel.ca/content/www/ca/en/homepage.html) <br/>
 
