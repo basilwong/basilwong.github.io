@@ -1,6 +1,6 @@
 ---
 title: "Small Steps Android App"
-excerpt: "Android App for Tracking Exposure Therapy Progress for Users Suffering from PTSD<br/><img src='logos/ss_logo.png'>"
+excerpt: "Android App for Tracking Exposure Therapy Progress for Users Suffering from PTSD<br/><img src='https://basilwong.github.io/files/logos/ss_logo.png'>"
 collection: portfolio
 ---
 

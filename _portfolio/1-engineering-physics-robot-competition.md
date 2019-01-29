@@ -1,6 +1,6 @@
 ---
 title: "Eningeering Physics Robot Competition"
-excerpt: "Fully Autonomous Uber Bots Racing to Pickup Passengers<br/><img src='robot-competition/robot_promo_Moment.jpg'>"
+excerpt: "Fully Autonomous Uber Bots Racing to Pickup Passengers<br/><img src='https://basilwong.github.io/files/robot-competition/robot_promo_Moment.jpg'>"
 collection: portfolio
 ---
 
