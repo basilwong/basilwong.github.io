@@ -20,7 +20,7 @@ Education
 
 Technical experience
 ======
-[<img src='https://basilwong.github.io/files/logos/WALUSLAB.png' height='150'>](https://waluslab.ece.ubc.ca/) <br/>
+<a href="https://waluslab.ece.ubc.ca/"><img src="https://basilwong.github.io/files/logos/WALUSLAB.png" width="82" height="86" title="w flower" alt="f"></a>
 **Walus Labs – Undergraduate Researcher – (April 2018 – Sept 2018)**
   * Part of a 5 person team researching the simulation of Quantum Cellular Automata 
   * Responsible for creating the physics engine computing the Quantum Coherence Vectors over time 
@@ -28,7 +28,7 @@ Technical experience
     * Engine is self contained package (C++ and Python versions) 
     * Integrated into QCA Designer CAD tool 
 	
-[<img src='https://basilwong.github.io/files/logos/ubcorbit.png' height='150'>](https://www.ubcorbit.com/) <br/>
+<a href="https://www.ubcorbit.com/"><img src="https://basilwong.github.io/files/logos/ubcorbit.png" width="82" height="86" title="d flower" alt="e"></a>
 **UBC Orbit – Communication and Data Management Lead (Sept 2017 – Sept 2018) Vancouver, Canada**
   * Team Lead of the 8 person Communications Data Management Team 
   * Management role: Hardware/Software integration with other teams(COMMs, Payload), assigning members tasks to keep the team on schedule, ramping up new team members 
@@ -38,7 +38,7 @@ Technical experience
 	* Successfully tested a prototype under proton beam at TRIUMF facility November 2017 
 	* Design is based on C
 	
-[<img src='https://basilwong.github.io/files/logos/Neurio_logo.png' height='150'>](https://www.neur.io/) <br/> 
+<a href="https://www.neur.io/"><img src="https://basilwong.github.io/files/logos/Neurio_logo.png" width="82" height="86" title="d flower" alt="e"></a>
 **Neurio Technology – Hardware/Software Engineer Coop – (April 2017 – Sept 2017)**
   * Independently designed and implemented current transformer testing system to be integrated with the overseas manufacturing process of Current Transformers
   * Worked with Creation Technologies in China to get testing system running at the location of manufacturing (Changzhou)
@@ -51,7 +51,7 @@ Technical experience
     * Also logging, processing and analyzing the test data of thousands of units for the purpose of quality assurance and optimization.
   * Part of a 4 person hardware team in a 20 person company, projects were independent
   
-[<img src='https://basilwong.github.io/files/logos/intel_logo.png' height='150'>](https://www.intel.ca/content/www/ca/en/homepage.html) <br/>
+<a href="https://www.intel.ca/content/www/ca/en/homepage.html"><img src="https://basilwong.github.io/files/logos/intel_logo.png" width="82" height="86" title="d flower" alt="e"></a>
 **Intel – Embedded Systems Engineer Coop – (Jan 2016 – April 2016) Vancouver, Canada**
   * Validation testing of new Solid State Drive Controller ASIC  
   * Wrote and ran Python scripts that interacted with C-based framework 
@@ -74,8 +74,13 @@ Other Experience
   * Leveraged knowledge of books from personal reading to help customers
   * Worked on the cashier and inventory team
 
+  
+  
+[<img src='https://basilwong.github.io/files/logos/WALUSLAB.png' height='150'>](https://waluslab.ece.ubc.ca/) <br/>
 
+[<img src='https://basilwong.github.io/files/logos/ubcorbit.png' height='150'>](https://www.ubcorbit.com/) <br/>
 
+[<img src='https://basilwong.github.io/files/logos/Neurio_logo.png' height='150'>](https://www.neur.io/) <br/> 
 
-
+[<img src='https://basilwong.github.io/files/logos/intel_logo.png' height='150'>](https://www.intel.ca/content/www/ca/en/homepage.html) <br/>
 
