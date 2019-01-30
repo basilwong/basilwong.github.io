@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A little about me..."
+title: "What is this website?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 To start, I'd like to thank you for coming. I essentially made this website for displaying my (limited) feats to potential employers, but it also serves as a journal for myself. 
-
-Interested in building things via software and physics. Loves working in teams, always looking to learn.
 
 At the top you will see 3 catagories, feel free to check them out:
 
