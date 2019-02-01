@@ -12,13 +12,13 @@ The app was designed to be used for tracking and logging the progress of PTSD pa
 
 Codebase: ReactNative
 
-![alt text](https://basilwong.github.io/files/small-steps/open.jpg =250x)
-
-![alt text](https://basilwong.github.io/files/small-steps/login.jpg =250x)
-
-![alt text](https://basilwong.github.io/files/small-steps/logscreen.jpg =250x)
-
-![alt text](https://basilwong.github.io/files/small-steps/progress.jpg =250x)
+<img src="https://basilwong.github.io/files/small-steps/open.jpg" width='250'>
+<br/>
+<img src="https://basilwong.github.io/files/small-steps/login.jpg" width='250'>
+<br/>
+<img src="https://basilwong.github.io/files/small-steps/logscreen.jpg" width='250'>
+<br/>
+<img src="https://basilwong.github.io/files/small-steps/progress.jpg" width='250'>
 
 Checkout the code repository for this app at [here](https://github.com/basilwong/small_steps).
 
