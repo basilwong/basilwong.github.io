@@ -1,7 +1,7 @@
 ---
 title: 'Post 0: Basil'
 date: 2019-01-29
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/Post0
 tags:
   - FirstPost
 ---
