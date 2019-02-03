@@ -12,7 +12,7 @@ To start, I'd like to thank you for coming. I essentially made this website for 
 
 At the top you will see 3 catagories, feel free to check them out:
 
- * CV: Expanded version of my resume. Resumes I'e handed or sent out are curated, so here's the full description of my experience/qualifications. 
+ * CV: Expanded version of my resume. Resumes I've handed or sent out are curated, so here's the full description of my experience/qualifications. 
  
  * Portfolio: My personal projects that I think are really cool. 
  
