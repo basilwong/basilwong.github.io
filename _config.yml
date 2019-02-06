@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Basil Wong / My Website"
+title                    : "Basil Wong - Personal Website"
 title_separator          : "~"
 name                     : &name "Basil Wong"
 description              : &description "Engineering Physics UBC"
