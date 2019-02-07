@@ -21,15 +21,14 @@ Education
 Technical experience
 ======
 <a href="https://waluslab.ece.ubc.ca/"><img src="https://basilwong.github.io/files/logos/WALUSLAB.png" width="82" height="86" title="w flower" alt="f"></a>
-**Walus Labs – Undergraduate Researcher – (April 2018 – Sept 2018)**
+**Walus Labs – Research Co-op – (April 2018 – Sept 2018)**
   * Part of a 5 person team researching the simulation of Quantum Cellular Automata 
   * Responsible for creating the physics engine computing the Quantum Coherence Vectors over time 
-    * Utilized SUNDIALS(C++), Boost(C++), NumPy(Python) to compute ordinary differential equations 
+    * Utilized SUNDIALS(C++), Boost(C++), NumPy(Python) to solve ordinary differential equations 
     * Engine is self contained package (C++ and Python versions) 
-    * Integrated into QCA Designer CAD tool 
 	
 <a href="https://www.ubcorbit.com/"><img src="https://basilwong.github.io/files/logos/ubcorbit.png" width="82" height="86" title="d flower" alt="e"></a>
-**UBC Orbit – Communication and Data Management Lead (Sept 2017 – Sept 2018) Vancouver, Canada**
+**UBC Orbit – Team Lead (Sept 2017 – Sept 2018) Vancouver, Canada**
   * Team Lead of the 8 person Communications Data Management Team 
   * Management role: Hardware/Software integration with other teams(COMMs, Payload), assigning members tasks to keep the team on schedule, ramping up new team members 
   * Technical role:  Implementing protocol API for communication between microcontrollers and the modules of other teams over SPI, I2C, UART 
@@ -39,7 +38,7 @@ Technical experience
 	* Design is based on C
 	
 <a href="https://www.neur.io/"><img src="https://basilwong.github.io/files/logos/Neurio_logo.png" width="82" height="86" title="d flower" alt="e"></a>
-**Neurio Technology – Hardware/Software Engineer Coop – (April 2017 – Sept 2017)**
+**Neurio Technology – Hardware/Software Engineer Co-op – (April 2017 – Sept 2017)**
   * Independently designed and implemented current transformer testing system to be integrated with the overseas manufacturing process of Current Transformers
   * Worked with Creation Technologies in China to get testing system running at the location of manufacturing (Changzhou)
   * Designed and prototyped the testing jig (10 units/5 seconds, 20,000 unit maintenance lifetime)
@@ -52,11 +51,11 @@ Technical experience
   * Part of a 4 person hardware team in a 20 person company, projects were independent
   
 <a href="https://www.intel.ca/content/www/ca/en/homepage.html"><img src="https://basilwong.github.io/files/logos/intel_logo.png" width="82" height="86" title="d flower" alt="e"></a>
-**Intel – Embedded Systems Engineer Coop – (Jan 2016 – April 2016) Vancouver, Canada**
+**Intel – Silicon Validation Engineer Co-op – (Jan 2016 – April 2016) Vancouver, Canada**
   * Validation testing of new Solid State Drive Controller ASIC  
   * Wrote and ran Python scripts that interacted with C-based framework 
   * Debugged and modified 20+ Python test programs from previous build to validate current ASIC version that the team was working on 
-  * Worked in a small team of 4 for most of the term 
+  * Worked in a small team of 4  
   
 
 Other Experience
