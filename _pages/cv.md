@@ -16,7 +16,7 @@ Skills
 
 Education
 ======
-* B.S. in Engineering Phyiscs, University of British Columbia
+* B.A.Sc in Engineering Phyiscs, University of British Columbia
 
 Technical experience
 ======
