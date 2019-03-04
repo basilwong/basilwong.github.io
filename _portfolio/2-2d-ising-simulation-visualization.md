@@ -8,7 +8,7 @@ collection: portfolio
 
 Explores the properties of the generalized Ising Model in 2 dimensions. The spins are arranged in a square lattice and interact with the nearest neighbours only. Periodic boundardary conditions are imposed in both directions. Link to the source code [here](https://github.com/basilwong/monte-carlo-2D-ising).
 
-Below is the visualization of the lattice over time given an inverse temperature and starting from a random configuration. 
+Below is the visualization of the lattice over time given an inverse temperature and starting from a random configuration. The interaction between neighbours causes the elements of the lattice to group into like polarizations. As you can see in the video the lattice goes from very checkered and random to eventually showing clumps of polarizations  grouped together. 
 
 <video src="https://basilwong.github.io/files/ising-model/ising_capture.mp4" poster="https://basilwong.github.io/files/ising-model/ising_capture_moment.jpg" width="320" height="200" controls preload></video>
 
