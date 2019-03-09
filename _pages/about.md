@@ -14,6 +14,6 @@ At the top you will see 3 catagories, feel free to check them out:
 
  * CV: Expanded version of my resume. Resumes I've handed or sent out are curated, so here's the full description of my experience/qualifications. 
  
- * Portfolio: My personal projects that I think are really cool. 
+ * Portfolio: Projects I've worked on that I think are really cool. 
  
  * About Me: Kind of a blog series about my life outside of tech. 
