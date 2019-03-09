@@ -34,7 +34,7 @@ The accelerometer used for this project, the ADXL345, measures acceleration in t
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=|a|&space;=&space;\sqrt{a_x^2&space;&plus;&space;a_y^2&space;&plus;&space;a_z^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?|a|&space;=&space;\sqrt{a_x^2&space;&plus;&space;a_y^2&space;&plus;&space;a_z^2}" title="|a| = \sqrt{a_x^2 + a_y^2 + a_z^2}" /></a>
 
-During a fall, there are two easily distinguishable states - free-fall and impact. By tracking |a| we can determine when the accelerometer attached to a falling person experiences one of these scenarios. Below is a picture taken from the Analog Dialogue article by Ning Jia and It depicts how each directional acceleration behaves during a fall.
+During a fall, there are two easily distinguishable states - free-fall and impact. By tracking the magnitude of __a__ we can determine when the accelerometer attached to a falling person experiences one of these scenarios. Below is a picture taken from the Analog Dialogue article by Ning Jia and It depicts how each directional acceleration behaves during a fall.
 
 <img src="https://basilwong.github.io/files/cap-2/graph.JPG"> <br/>
 

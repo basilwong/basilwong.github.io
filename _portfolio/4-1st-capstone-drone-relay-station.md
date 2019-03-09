@@ -28,7 +28,7 @@ The plan was crutched on the DJI onboard and mobile SDKs.  The modern flight con
 
 Below is a schematic for our initial design of the system.  Wherein, DAD refers to the ground station.  BOO refers to the relay station/intermediary drone.  And BAE refers to the secondary and final drone.  The various floors are imitating obstructions to the signals between components.  We would initially test the communication without obstructions, and after feeling confident in the system we could move to different floors.
 
-<img src="https://basilwong.github.io/files/cap-1/relay-station-arch.JPG" width='400' >
+<img src="https://basilwong.github.io/files/cap-1/relay-station-arch.jpg" width='400' >
 
 ### Equipment and Uses
 
