@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-To start, I'd like to thank you for coming. I essentially made this website for displaying my (limited) feats to potential employers, but it also serves as a journal for myself. 
-
-At the top you will see 3 catagories, feel free to check them out:
+Thanks for checking out my website! I am an UBC Engineering Physics 2019 Grad interested in building things via software and physics. I love working in teams, and am always looking to learn. Please check out the rest of my website to learn more about my past projects and experience. 
 
  * CV: Expanded version of my resume. Resumes I've handed or sent out are curated, so here's the full description of my experience/qualifications. 
  
  * Portfolio: Projects I've worked on that I think are really cool. 
  
- * About Me: Kind of a blog series about my life outside of tech. 
+ * About Me: My life outside of tech. 
