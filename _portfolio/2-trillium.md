@@ -18,13 +18,9 @@ A single event upset (SEU) is a change of state caused by one single ionizing pa
 
 Trillium is a low-cost alternative to radiation hardened memory. Instead of aiming the negate the effects of radiation, Trillium aims to detect the errors induced by radiation, and counteract them. When a malfunctioning bit is detected, the system is corrected correspondingly.
 
-# Hardware Specs
+# Hardware
 
-The Communications and Data Handling part of the satellite required an MCU which was able to fit the power requirements of the satellite, the clock speed to do the job, and the I/O peripherals to facilitate communication with all the parts of the satellite. We ended up using an MCU with the model name STMf401re. During development we used the Nucleo development board to flash our implementations and test on the STMf401re's.
-
-The Trillium design utilized 3 STMf401re's connected to each other.
-
-<img src="https://basilwong.github.io/files/small-steps/open.jpg" width='250'>
+The Communications and Data Handling part of the satellite required an MCU which was able to fit the power requirements of the satellite, the clock speed to do the job, and the I/O peripherals to facilitate communication with all the parts of the satellite. We ended up using an MCU with the model name STMf401re. During development we used the Nucleo development board to flash our implementations and test on the STMf401re's. The Trillium design utilized 3 STMf401re's connected to each other.
 
 # Redundant Computation and Memory
 
