@@ -22,7 +22,8 @@ Technical experience
 ======
 <a href="https://www.redmane.com/"><img src="https://basilwong.github.io/files/logos/redmane_logo.png" width="82" height="86" title="RedMane Logo" alt="f"></a>
 **RedMane Technology – Software Engineer – (June 2019 – Present)**
-  * Designed and built data pipeline framework for Puerto Rico Medicaid Verification program on the Microsoft Azure Cloud Platform
+  * Designed and built data pipeline application for Puerto Rico Medicaid Verification program on the Microsoft Azure Cloud Platform
+    * 50+ ETL Pipelines executed transformations on batch data concurrently over a distributed cluster framework lowering execution time and cost at scale
     * Java, Apache Spark, Python, Apache Hadoop
 
 <a href="https://waluslab.ece.ubc.ca/"><img src="https://basilwong.github.io/files/logos/WALUSLAB.png" width="82" height="86" title="Walus Labs Logo" alt="f"></a>
