@@ -8,6 +8,8 @@ At the beginning of this year while we were all social distancing, I suddenly fo
 
 ![png](https://basilwong.github.io/files/titanic-kaggle-competition/codeacademy-picture.PNG)
 
+Some of the things I learned in the course included Linear and Logistic Regression, Decision Trees, K-Nearest Neighbours, K-Means(++) Clustering and the building blocks of deep learning, Perceptrons.
+
 One of the course's projects was to make a submission to Kaggle's Titanic competition. After going through the course, I decided to comeback to this project and add to it more of what I learned during the course. Check out the actual submission notebook on Kaggle.com [here](https://www.kaggle.com/basilwong/titanic-competition).
 
 ## Titanic Competition
@@ -368,13 +370,13 @@ Going through each feature and making an initial analysis/assumption on their co
 * PassengerID:
     * Not correlated to survival, will not be used in training.
 * Pclass:
-    * It is likely that passengers of 'higher class' were prioritized during the disaster. Luckily the values of the passenger class data is catagorized into numerical buckets and there aren't any missing values.
+    * It is likely that passengers of 'higher class' were prioritized during the disaster. Luckily the values of the passenger class data is categorized into numerical buckets and there aren't any missing values.
 * Sex:
     * Women and children were prioritized so this will likely be an important feature for training.
 * Name:
     * It is unlikely that name will be useful compared to passenger class. We could possibly group by title or by last name, but the Sex field already has a similar function without having to clean the data and classifying based on the names we train on would be overfitting the model.
 * Age:
-    * Since women and children were prioritized during the rescue, this is defnitely a catagory we will want to look at. Some values are missing so that will have to be cleaned. We may want to explore bucketting the Age field into age groups.
+    * Since women and children were prioritized during the rescue, this is definitely a category we will want to look at. Some values are missing so that will have to be cleaned. We may want to explore bucketing the Age field into age groups.
 * SibSp	/ Parch:
     * If we add these together it will get the size of your family that was onboard, it's possible that this could be correlated to survival.
 * Ticket:
@@ -384,7 +386,7 @@ Going through each feature and making an initial analysis/assumption on their co
 * Cabin:
     * Again is missing too many values. Will be dropped.
 * Embarked:
-    * Passengers on the ship may have had their quarters located based on when they embarked in addition to pclass. This may affect their survival rate. The correlation for this catagory will be explored.
+    * Passengers on the ship may have had their quarters located based on when they embarked in addition to pclass. This may affect their survival rate. The correlation for this category will be explored.
 
 
 ```python
