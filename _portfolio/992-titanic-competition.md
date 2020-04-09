@@ -4,7 +4,7 @@ excerpt: "Predicting Survival of Titanic Disaster<br/><img src='https://basilwon
 collection: portfolio
 ---
 
-At the beginning of this year while we were all social distancing, I suddenly found myself with a whole bunch of free time. I decided to go through the Introduction to Machine Learning course on my younger brother's Code Academy account. Thanks Josh!
+I decided to go through the Introduction to Machine Learning course on my younger brother's Code Academy account. Thanks Josh!
 
 ![png](https://basilwong.github.io/files/titanic-kaggle-competition/codeacademy-picture.PNG)
 
