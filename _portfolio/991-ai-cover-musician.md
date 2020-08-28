@@ -1,6 +1,6 @@
 ---
 title: "AI Cover Musician"
-excerpt: "Takes a song, interprets it, produces a cover of that song<br/><img src='https://basilwong.github.io/files/logos/aws_logo.png' width='200'>"
+excerpt: "Takes a song, interprets it, produces a cover of that song<br/><img src='https://basilwong.github.io/files/logos/ai_cover_musician_logo.jpg' width='200'>"
 collection: portfolio
 ---
 
