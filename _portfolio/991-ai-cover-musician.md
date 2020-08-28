@@ -6,6 +6,12 @@ collection: portfolio
 
 <video src="https://basilwong.github.io/files/ai-cover-musician/ai_cover_musician_demo.mp4" poster="http://img.youtube.com/vi/3wBiNvPN-kA/0.jpg" width="640" height="360" controls preload></video>
 
+Follow AI Cover Musician on:
+
+Sound Cloud: [https://soundcloud.com/ai-music-covers](https://soundcloud.com/ai-music-covers)
+
+YouTube: [https://www.youtube.com/channel/UC1L1IyK0OJHqMtY6ttXtvCw?](https://www.youtube.com/channel/UC1L1IyK0OJHqMtY6ttXtvCw?)
+
 Repo Link: [https://github.com/basilwong/ai-cover-musician](https://github.com/basilwong/ai-cover-musician)
 
 ## Inspiration
@@ -82,9 +88,4 @@ TODO List:
 
 AI Cover Musician's goal is to become world famous because of music. 
 
-Follow AI Cover Musician on:
-
-Sound Cloud: [https://soundcloud.com/ai-music-covers](https://soundcloud.com/ai-music-covers)
-
-YouTube: [https://www.youtube.com/channel/UC1L1IyK0OJHqMtY6ttXtvCw?](https://www.youtube.com/channel/UC1L1IyK0OJHqMtY6ttXtvCw?)
 
