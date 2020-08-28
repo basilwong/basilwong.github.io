@@ -12,6 +12,8 @@ Follow AI Cover Musician on:
 
 Sound Cloud: [https://soundcloud.com/ai-music-covers](https://soundcloud.com/ai-music-covers)
 
+600+ plays on Sound Cloud!!!
+
 YouTube: [https://www.youtube.com/channel/UC1L1IyK0OJHqMtY6ttXtvCw?](https://www.youtube.com/channel/UC1L1IyK0OJHqMtY6ttXtvCw?)
 
 Repo Link: [https://github.com/basilwong/ai-cover-musician](https://github.com/basilwong/ai-cover-musician)
