@@ -12,7 +12,7 @@ redirect_from:
 Skills
 ======
 * Python, Java, C++, C
-* Git, Linux, Azure, Spark
+* Spark, AWS, Azure
 
 Education
 ======
@@ -20,8 +20,11 @@ Education
 
 Technical experience
 ======
+<a href="https://aws.amazon.com/"><img src="https://basilwong.github.io/files/logos/aws_logo.png" width="82" height="86" title="AWS Logo" alt="f"></a>
+**Amazon Web Services – Software Development Engineer 1 – (June 2020 – Present)**
+
 <a href="https://www.redmane.com/"><img src="https://basilwong.github.io/files/logos/redmane_logo.png" width="82" height="86" title="RedMane Logo" alt="f"></a>
-**RedMane Technology – Software Engineer – (June 2019 – Present)**
+**RedMane Technology – Software Engineer – (June 2019 – June 2020)**
   * Designed and built data pipeline application for Puerto Rico Medicaid Verification program on the Microsoft Azure Cloud Platform
     * 50+ ETL Pipelines executed transformations on batch data concurrently over a distributed cluster framework lowering execution time and cost at scale
     * Java, Apache Spark, Python, Apache Hadoop
