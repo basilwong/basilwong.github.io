@@ -4,6 +4,8 @@ excerpt: "Takes a song, interprets it, produces a cover of that song<br/><img sr
 collection: portfolio
 ---
 
+AI Cover Musician was submitted to the [AWS Marketplace Developer Challenge: ML Powered Solutions](https://awsmarketplaceml.devpost.com/) hackathon. Below is a demo video demostrating how covers are created.
+
 <video src="https://basilwong.github.io/files/ai-cover-musician/ai_cover_musician_demo.mp4" poster="http://img.youtube.com/vi/3wBiNvPN-kA/0.jpg" width="640" height="360" controls preload></video>
 
 Follow AI Cover Musician on:
@@ -13,6 +15,8 @@ Sound Cloud: [https://soundcloud.com/ai-music-covers](https://soundcloud.com/ai-
 YouTube: [https://www.youtube.com/channel/UC1L1IyK0OJHqMtY6ttXtvCw?](https://www.youtube.com/channel/UC1L1IyK0OJHqMtY6ttXtvCw?)
 
 Repo Link: [https://github.com/basilwong/ai-cover-musician](https://github.com/basilwong/ai-cover-musician)
+
+Submission Link: [https://devpost.com/software/ai-cover-musician](https://devpost.com/software/ai-cover-musician)
 
 ## Inspiration
 
