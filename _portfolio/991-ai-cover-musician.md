@@ -4,7 +4,7 @@ excerpt: "Takes a song, interprets it, produces a cover of that song<br/><img sr
 collection: portfolio
 ---
 
-<video src="https://basilwong.github.io/files/ai-cover-musician/demo_video.mp4" poster="http://img.youtube.com/vi/3wBiNvPN-kA/0.jpg" width="640" height="360" controls preload></video>
+<video src="https://basilwong.github.io/files/ai-cover-musician/ai_cover_musician_demo.mp4" poster="http://img.youtube.com/vi/3wBiNvPN-kA/0.jpg" width="640" height="360" controls preload></video>
 
 Repo Link: [https://github.com/basilwong/ai-cover-musician](https://github.com/basilwong/ai-cover-musician)
 
