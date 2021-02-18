@@ -4,9 +4,15 @@ excerpt: "Takes a song, interprets it, produces a cover of that song<br/><img sr
 collection: portfolio
 ---
 
+*Takes a song, interprets the lyrics, produces a cover of that song.* 
+
+Here is a sample of what it produces:
+
+<video src="https://basilwong.github.io/files/ai-cover-musician/drake-toosie-slide.mp4" poster="https://img.youtube.com/vi/x3UjZdbV7gs/maxresdefault.jpg" width="640" height="360" controls preload></video>
+
 AI Cover Musician was submitted to the [AWS Marketplace Developer Challenge: ML Powered Solutions](https://awsmarketplaceml.devpost.com/) hackathon. Below is a demo video demostrating how covers are created.
 
-<video src="https://basilwong.github.io/files/ai-cover-musician/ai_cover_musician_demo.mp4" poster="http://img.youtube.com/vi/3wBiNvPN-kA/0.jpg" width="640" height="360" controls preload></video>
+<video src="https://basilwong.github.io/files/ai-cover-musician/ai_cover_musician_demo.mp4" poster="http://img.youtube.com/vi/3wBiNvPN-kA/maxresdefault.jpg" width="640" height="360" controls preload></video>
 
 Follow AI Cover Musician on:
 
