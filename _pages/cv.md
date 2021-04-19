@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
----
-layout: archive
----
-Skills
+
+Core Skills
 ======
-* Python, Java, C++, C
-* Spark, AWS, Azure
+* Languages: Java, Python, C++
+* Linux, Git, Agile
+* AWS, Azure, Apache Spark
 
 Education
 ======
