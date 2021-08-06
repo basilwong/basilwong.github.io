@@ -24,10 +24,9 @@ Technical experience
 ======
 <a href="https://aws.amazon.com/"><img src="https://basilwong.github.io/files/logos/aws_logo.png" width="82" height="86" title="AWS Logo" alt="f"></a>
 **Amazon Web Services – Software Development Engineer 1 – (June 2020 – Present)**
-  * Built from the ground up and released a multi-million dollar product Amazon MQ for RabbitMQ
-    * https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-mq-rabbitmq/
-  * Lead the project for customer metric tracking and visualization, using the results of this project the team was able to make product level decisions such as adding additional instances sizes for customers.
-  * Lead the project for implementing intelligent limits on the product. This helps customers avoid using more capacity than the compute they are using can handle. Implementing this change prevented over-usage tickets and reduced total tickets cut to our ops by 10%
+  * Developed/released high growth product [Amazon MQ for RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-mq-rabbitmq/). Averaging 5-8% usage increase per week since release
+  * Led the feature development for intelligent limits on Amazon MQ for RabbitMQ. Aids customers in avoiding going over compute capacity. Decreased rate of customer load issues by 78.5%
+  * Led the project for customer metric tracking and visualization, using the results of this project the team was able to make product level decisions such as adding additional instances sizes for customers
 
 <a href="https://www.redmane.com/"><img src="https://basilwong.github.io/files/logos/redmane_logo.png" width="82" height="86" title="RedMane Logo" alt="f"></a>
 **RedMane Technology – Software Engineer – (June 2019 – June 2020)**
