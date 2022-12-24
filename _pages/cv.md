@@ -22,8 +22,13 @@ Education
 
 Technical experience
 ======
+<a href="https://www.meta.com"><img src="https://basilwong.github.io/files/logos/meta_logo.png" width="82" height="86" title="Meta Logo" alt="f"></a>
+**Meta – Software Engineer – (January 2022 - Present)**
+  * Developed a new metric for Ads ML model evaluation which provides probability of conversion based on ML models trained on opt in data. The metric is now used to compensate for the signal loss caused by Apple Tracking Transparency. Accounts for 15 percent of all ads traffic in the experiment environment. 
+  * Came up the idea and led project for collecting data on experiment metric usage. The data collected from this project was used for road-map prioritization, optimizing the support our team was providing based on metric usage. 
+
 <a href="https://aws.amazon.com/"><img src="https://basilwong.github.io/files/logos/aws_logo.png" width="82" height="86" title="AWS Logo" alt="f"></a>
-**Amazon Web Services – Software Development Engineer 1 – (June 2020 – Present)**
+**Amazon Web Services – Software Development Engineer 1 – (June 2020 – November 2021)**
   * Developed/released high growth product [Amazon MQ for RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-mq-rabbitmq/). Averaging 5-8% usage increase per week since release
   * Led the feature development for intelligent limits on Amazon MQ for RabbitMQ. Aids customers in avoiding going over compute capacity. Decreased rate of customer load issues by 78.5%
   * Led the project for customer metric tracking and visualization, using the results of this project the team was able to make product level decisions such as adding additional instances sizes for customers
