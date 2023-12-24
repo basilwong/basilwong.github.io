@@ -1,5 +1,5 @@
 ---
-title: "1st Capstone: Drone Relay Station"
+title: "Capstone: Drone Relay Station"
 excerpt: "Relay Station for Beyond Line of Sight Communication<br/><img src='https://basilwong.github.io/files/logos/aeriosense_logo.png' width='200'>"
 collection: portfolio
 ---
