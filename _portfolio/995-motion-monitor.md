@@ -156,6 +156,7 @@ An email is sent to the user’s designated help email by running the Python scr
 * Setup a secure connection over SMTP
 * Send an email to the user’s designated help email address
 
+## Partner App Design
 
 
 
