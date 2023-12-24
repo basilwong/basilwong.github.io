@@ -1,5 +1,5 @@
 ---
-title: "2nd Capstone: Human Motion Monitor"
+title: "Human Motion Monitor"
 excerpt: ""
 collection: portfolio
 ---
@@ -16,7 +16,7 @@ One of the leading causes of senior emergency room visits is falling. The motiva
 
 # Sponsor
 
-Riot Micro develops industry-leading wireless chipsets for smart objects in the Internet of Things. Their breakthrough IoT platform-on-a-chip simplifies cellular connectivity for current-generation applications such as smart metering and vehicle telematics, as well as a new generation of smart objects that range from wearables and smoke detectors to parking meters and traffic lights.
+Riot Micro(acquired by [STMicroelectronics](https://www.st.com/content/st_com/en.html)) develops industry-leading wireless chipsets for smart objects in the Internet of Things. Their breakthrough IoT platform-on-a-chip simplifies cellular connectivity for current-generation applications such as smart metering and vehicle telematics, as well as a new generation of smart objects that range from wearables and smoke detectors to parking meters and traffic lights.
 
 # Design
 
