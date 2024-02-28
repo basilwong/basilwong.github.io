@@ -1,6 +1,6 @@
 ---
 title: "Human Motion Monitor"
-excerpt: ""
+excerpt: "Fall Detection Product<br/><img src='https://basilwong.github.io/files/logos/human-motion-monitor-pic.png' width='200'>"
 collection: portfolio
 ---
 
