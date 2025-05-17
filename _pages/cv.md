@@ -9,23 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-
-Core Skills
-======
-* Languages: Java, Python, C++
-* Linux, Git, Agile
-* AWS, Azure, Apache Spark
-
-Education
-======
-* B.A.Sc in Engineering Physics, University of British Columbia
-
 Technical experience
 ======
 <a href="https://www.meta.com"><img src="https://basilwong.github.io/files/logos/meta_logo.png" width="82" height="86" title="Meta Logo" alt="f"></a>
-**Meta – Software Engineer – (January 2022 - Present)**
+**Meta – Software Engineer, Machine Learning – (January 2022 - Present)**
+  * Responsible for implementing and testing training optimization techniques which led to 5:1 sparse feature embedding table compression ratio and 75% [activation memory cost reduction](https://github.com/pytorch/pytorch/commit/7b2af25f80071440538d8bf4de1804bb1f4914b5) for the Meta [GEM](https://www.facebook.com/business/news/ai-innovation-in-metas-ads-ranking-driving-advertiser-performance) model(which increased ad conversions by up to 5% in 2024)
+  * Led the research eﬀort to determine how to generate synthetic, diﬀerentially private user data. Experimenting with both [marginal algorithms](https://arxiv.org/pdf/2201.12677) and [CTGAN models](https://proceedings.neurips.cc/paper_files/paper/2019/file/254ed7d2de3b23ab10936522dd547b78-Paper.pdf), unblocked measurement of estimated 4.03% incremental revenue (Python)
   * Developed a new metric for Ads ML model evaluation which provides probability of conversion based on ML models trained on opt in data. The metric is now used to compensate for the signal loss caused by Apple Tracking Transparency. Accounts for 15 percent of all ads traffic in the experiment environment. 
-  * Came up the idea and led project for collecting data on experiment metric usage. The data collected from this project was used for road-map prioritization, optimizing the support our team was providing based on metric usage. 
 
 <a href="https://aws.amazon.com/"><img src="https://basilwong.github.io/files/logos/aws_logo.png" width="82" height="86" title="AWS Logo" alt="f"></a>
 **Amazon Web Services – Software Development Engineer 1 – (June 2020 – November 2021)**
@@ -91,3 +81,8 @@ Other Experience
 **Indigo Books - Customer Service Rep./Cashier/Stock  (Jun 2011 - Dec 2011) Vancouver, Canada**
   * Leveraged knowledge of books from personal reading to help customers
   * Worked on the cashier and inventory team
+
+
+Education
+======
+* B.A.Sc in Engineering Physics, University of British Columbia
