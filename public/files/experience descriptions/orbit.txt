@@ -1,0 +1,11 @@
+Canadian Satellite Design Challenge: http://www.csdcms.ca/ 
+Communications Data Handling Team
+- Satellite data management focused
+   - Researching space resilient memory (NAND/NOR Flash, MRAM)
+- Transfer of information between components of the satellite 
+
+Trillium
+- Design and implementation of “Trillium” project, low cost alternative to radiation hardened microcontrollers for space through the use of triple redundant STM32f401 microcontrollers 
+   - Started at the drawing board in September and successfully tested a prototype under proton beam at TRIUMF facility in late November 
+   - Prototype successfully corrects for single event upset bit errors and latch-ups 
+   - STM micro controllers are flashed with C firmware

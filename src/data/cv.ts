@@ -1,0 +1,136 @@
+export default {
+  technicalExperience: [
+    {
+      company: 'Meta',
+      role: 'Software Engineer, Machine Learning',
+      period: 'January 2022 - Present',
+      logo: '/files/logos/meta_logo.png',
+      url: 'https://www.meta.com',
+      bullets: [
+        'Co-author and core contributor to <a href="https://github.com/facebookresearch/mosaic">facebookresearch/mosaic</a>, an open-source <a href="https://docs.pytorch.org/tutorials/beginner/mosaic_memory_profiling_tutorial.html">PyTorch memory profiling and analysis</a> tool enabling visualization and optimization of memory usage in deep learning workflows.',
+        'Led training latency optimizations across 6 production models that saved over $15M in power costs in 2025',
+        'Responsible for implementing and testing training optimization techniques which led to 5:1 sparse feature embedding table compression ratio and 75% <a href="https://github.com/pytorch/pytorch/commit/7b2af25f80071440538d8bf4de1804bb1f4914b5">activation memory cost reduction</a> for the Meta <a href="https://www.facebook.com/business/news/ai-innovation-in-metas-ads-ranking-driving-advertiser-performance">GEM</a> model (which increased ad conversions by up to 5% in 2024)',
+        'Led the research effort to determine how to generate synthetic, differentially private user data. Experimenting with both <a href="https://arxiv.org/pdf/2201.12677">marginal algorithms</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/254ed7d2de3b23ab10936522dd547b78-Paper.pdf">CTGAN models</a>, unblocked measurement of estimated 4.03% incremental revenue (Python)',
+        'Developed a new metric for Ads ML model evaluation which provides probability of conversion based on ML models trained on opt in data. The metric is now used to compensate for the signal loss caused by Apple Tracking Transparency. Accounts for 15 percent of all ads traffic in the experiment environment.',
+      ],
+    },
+    {
+      company: 'Amazon Web Services',
+      role: 'Software Development Engineer 1',
+      period: 'June 2020 – November 2021',
+      logo: '/files/logos/aws_logo.png',
+      url: 'https://aws.amazon.com/',
+      bullets: [
+        'Developed/released high growth product <a href="https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-mq-rabbitmq/">Amazon MQ for RabbitMQ</a>. Averaging 5-8% usage increase per week since release',
+        'Led the feature development for intelligent limits on Amazon MQ for RabbitMQ. Aids customers in avoiding going over compute capacity. Decreased rate of customer load issues by 78.5%',
+        'Led the project for customer metric tracking and visualization, using the results of this project the team was able to make product level decisions such as adding additional instances sizes for customers',
+      ],
+    },
+    {
+      company: 'RedMane Technology',
+      role: 'Software Engineer',
+      period: 'June 2019 – June 2020',
+      logo: '/files/logos/redmane_logo.png',
+      url: 'https://www.redmane.com/',
+      bullets: [
+        'Designed and built data pipeline application for Puerto Rico Medicaid Verification program on the Microsoft Azure Cloud Platform',
+        '50+ ETL Pipelines executed transformations on batch data concurrently over a distributed cluster framework lowering execution time and cost at scale',
+        'Java, Apache Spark, Python, Apache Hadoop',
+      ],
+    },
+    {
+      company: 'Walus Labs',
+      role: 'Quantum Computing Research Co-op',
+      period: 'April 2018 – September 2018',
+      logo: '/files/logos/WALUSLAB.png',
+      url: 'https://waluslab.ece.ubc.ca/',
+      bullets: [
+        'Part of a 5 person team researching the simulation of Quantum Cellular Automata at UBC',
+        'Responsible for creating the physics engine computing the Quantum Coherence Vectors over time',
+        'Utilized SUNDIALS (C++), Boost (C++), NumPy (Python) to solve ordinary differential equations',
+        'Engine is self contained package (C++ and Python versions)',
+      ],
+    },
+    {
+      company: 'UBC Orbit',
+      role: 'Team Lead',
+      period: 'September 2017 – September 2018',
+      logo: '/files/logos/ubcorbit.png',
+      url: 'https://www.ubcorbit.com/',
+      bullets: [
+        'Team Lead of the 8 person Communications Data Management Team',
+        'Management role: Hardware/Software integration with other teams (COMMs, Payload), assigning members tasks to keep the team on schedule, ramping up new team members',
+        'Technical role: Implementing protocol API for communication between microcontrollers and the modules of other teams over SPI, I2C, UART',
+        'Spearheaded design and prototype of triple redundant STM32f401 microcontrollers for space applications — estimated at 10% of the cost of a normal radiation hardened microcontroller',
+        'Successfully tested a prototype under proton beam at TRIUMF facility November 2017',
+      ],
+    },
+    {
+      company: 'Neurio Technology',
+      role: 'Hardware Engineer Co-op',
+      period: 'April 2017 – September 2017',
+      logo: '/files/logos/Neurio_logo.png',
+      url: 'https://www.neur.io/',
+      bullets: [
+        'Independently designed and implemented current transformer testing system to be integrated with the overseas manufacturing process',
+        'Worked with Creation Technologies in China to get testing system running at the location of manufacturing (Changzhou)',
+        'Designed and prototyped the testing jig (10 units/5 seconds, 20,000 unit maintenance lifetime)',
+        'Responsible for sourcing and purchasing required parts ($5,000 budget). Built custom parts designed in AutoCAD and 3D printed in-house',
+        'Laid out high voltage circuit design in Eagle. Wrote embedded C code, uploaded to Arduino',
+        'Wrote Python scripts for testing specifications, logging, processing and analyzing test data for quality assurance',
+      ],
+    },
+    {
+      company: 'Intel',
+      role: 'NSG Undergrad Intern',
+      period: 'January 2016 – April 2016',
+      logo: '/files/logos/intel_logo.png',
+      url: 'https://www.intel.ca/content/www/ca/en/homepage.html',
+      bullets: [
+        'Validation testing of new Solid State Drive Controller ASIC',
+        'Wrote and ran Python scripts that interacted with C-based framework',
+        'Debugged and modified 20+ Python test programs from previous build to validate current ASIC version',
+      ],
+    },
+  ],
+  otherExperience: [
+    {
+      company: 'Electronic Arts / VMC',
+      role: 'Quality Assurance',
+      period: 'July 2015 - September 2015 and July 2014 - September 2014',
+      location: 'Burnaby, Canada',
+      bullets: [
+        'FIFA 15/16 Closed Beta Go Live Team',
+        'Recognized, indexed and described reproduction steps of 100+ problems on 4 different game consoles (Sony, Microsoft)',
+        'Employed Console Developer Software (Xbox One Manager, PS4 Neighborhood, Juice) to log and analyze game data and crash logs',
+      ],
+    },
+    {
+      company: 'Harmony Arts Festival',
+      role: 'Production Crew Member',
+      period: 'June 2013 - July 2013',
+      location: 'Vancouver, Canada',
+      bullets: [
+        'Worked in a team to setup and takedown the festival infrastructure',
+        'Build/takedown of tents, stages, art displays',
+      ],
+    },
+    {
+      company: 'Indigo Books',
+      role: 'Customer Service Rep./Cashier/Stock',
+      period: 'June 2011 - December 2011',
+      location: 'Vancouver, Canada',
+      bullets: [
+        'Leveraged knowledge of books from personal reading to help customers',
+        'Worked on the cashier and inventory team',
+      ],
+    },
+  ],
+  education: [
+    {
+      degree: 'B.A.Sc in Engineering Physics',
+      institution: 'University of British Columbia',
+      logo: '/files/logos/ubc_logo.jpg',
+    },
+  ],
+};

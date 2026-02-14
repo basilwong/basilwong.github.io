@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import BlogPostCard from '../../components/BlogPostCard.astro';
+import { fetchSubstackPosts } from '../../lib/substack';
+import site from '../../data/site';
+
+const substackPosts = await fetchSubstackPosts(site.substackFeedUrl);
+
+// Local legacy blog posts
+const localPosts = [
+  {
+    title: 'Post 0: Basil',
+    date: '2019-01-29',
+    excerpt: 'My name is Basil Wong and there are two sides of me...',
+    url: '/blog/post-0/',
+    isExternal: false,
+  },
+  {
+    title: 'Post 1: Teaching Engineering To High Schoolers',
+    date: '2019-02-26',
+    excerpt: 'This last summer I got permission to take a couple weeks off of my research job at Walus labs in order to teach an engineering summer camp to high school students.',
+    url: '/blog/post-1/',
+    isExternal: false,
+  },
+];
+
+// Merge and sort by date (newest first)
+const allPosts = [
+  ...substackPosts.map(p => ({
+    title: p.title,
+    date: p.pubDate,
+    excerpt: p.excerpt,
+    url: p.link,
+    isExternal: true,
+  })),
+  ...localPosts,
+].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+---
+
+<BaseLayout title="Blog - Basil Wong">
+  <h1 class="text-3xl font-bold mb-2">Blog</h1>
+  <p class="text-gray-600 mb-8">
+    Posts from <a href={site.substackUrl} target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">my Substack</a> and older local posts.
+  </p>
+
+  {allPosts.length > 0 ? (
+    <div class="space-y-4">
+      {allPosts.map(post => (
+        <BlogPostCard
+          title={post.title}
+          date={post.date}
+          excerpt={post.excerpt}
+          url={post.url}
+          isExternal={post.isExternal}
+        />
+      ))}
+    </div>
+  ) : (
+    <p class="text-gray-500">No posts yet. Check back soon!</p>
+  )}
+</BaseLayout>

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Style all text links blue + underlined globally */
+  a:not([class]):not(:has(> img)):not(:has(> svg)) {
+    @apply text-blue-600 underline hover:text-blue-800;
+  }
+
+  /* Ensure prose links are also blue + underlined */
+  .prose a {
+    @apply text-blue-600 underline hover:text-blue-800;
+  }
+}

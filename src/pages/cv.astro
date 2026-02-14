@@ -1,0 +1,53 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ExperienceEntry from '../components/ExperienceEntry.astro';
+import cv from '../data/cv';
+---
+
+<BaseLayout title="CV - Basil Wong">
+  <h1 class="text-3xl font-bold mb-8">CV</h1>
+
+  <section class="mb-10">
+    <h2 class="text-2xl font-bold mb-6 pb-2 border-b border-gray-200">Technical Experience</h2>
+    {cv.technicalExperience.map((entry: any) => (
+      <ExperienceEntry
+        company={entry.company}
+        role={entry.role}
+        period={entry.period}
+        logo={entry.logo}
+        url={entry.url}
+        bullets={entry.bullets}
+      />
+    ))}
+  </section>
+
+  <section class="mb-10">
+    <h2 class="text-2xl font-bold mb-6 pb-2 border-b border-gray-200">Other Experience</h2>
+    {cv.otherExperience.map((entry: any) => (
+      <ExperienceEntry
+        company={entry.company}
+        role={entry.role}
+        period={entry.period}
+        location={entry.location}
+        bullets={entry.bullets}
+      />
+    ))}
+  </section>
+
+  <section class="mb-10">
+    <h2 class="text-2xl font-bold mb-6 pb-2 border-b border-gray-200">Education</h2>
+    {cv.education.map((entry: any) => (
+      <div class="flex gap-4 mb-4">
+        {entry.logo && (
+          <div class="flex-shrink-0">
+            <img src={entry.logo} alt={entry.institution} class="w-16 h-16 object-contain" loading="lazy" />
+          </div>
+        )}
+        <div>
+          <h3 class="font-bold text-lg">{entry.degree}</h3>
+          <p class="text-gray-600">{entry.institution}</p>
+        </div>
+      </div>
+    ))}
+  </section>
+</BaseLayout>

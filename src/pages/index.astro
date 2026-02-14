@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Sidebar from '../components/Sidebar.astro';
+import site from '../data/site';
+---
+
+<BaseLayout title="Basil Wong - Personal Website">
+  <div class="grid md:grid-cols-[1fr_250px] gap-8">
+    <div>
+      <h1 class="text-3xl font-bold mb-6">Welcome!</h1>
+      <div class="prose prose-gray max-w-none">
+        <p>
+          Thanks for checking out my website! I am a Machine Learning Engineer with an Engineering Physics background.
+          I am focusing on optimizing eval performance, latency, and memory usage for large scale, distributed neural
+          networks. I recently started a <a href={site.substackUrl} target="_blank" rel="noopener noreferrer">Substack</a> where I blog about AI topics to help teach others.
+        </p>
+        <ul>
+          <li>
+            <a href="/cv/">Click here</a> to check out the expanded version of my resume.
+            Resumes I've handed or sent out are curated, so here's the full description of my experience/qualifications.
+          </li>
+        </ul>
+      </div>
+    </div>
+    <Sidebar />
+  </div>
+</BaseLayout>
