@@ -1,0 +1,45 @@
+---
+interface Props {
+  company: string;
+  role: string;
+  period: string;
+  logo?: string;
+  url?: string;
+  location?: string;
+  bullets: string[];
+}
+
+const { company, role, period, logo, url, location, bullets } = Astro.props;
+---
+
+<div class="flex gap-4 mb-8">
+  {logo && (
+    <div class="flex-shrink-0">
+      {url ? (
+        <a href={url} target="_blank" rel="noopener noreferrer">
+          <img src={logo} alt={`${company} Logo`} class="w-16 h-16 object-contain" loading="lazy" />
+        </a>
+      ) : (
+        <img src={logo} alt={`${company} Logo`} class="w-16 h-16 object-contain" loading="lazy" />
+      )}
+    </div>
+  )}
+  <div class="flex-1">
+    <h3 class="font-bold text-lg">
+      {url ? (
+        <a href={url} target="_blank" rel="noopener noreferrer" class="hover:text-blue-600 transition-colors">{company}</a>
+      ) : (
+        company
+      )}
+    </h3>
+    <p class="text-gray-700">{role}</p>
+    <p class="text-gray-500 text-sm">{period}{location ? ` — ${location}` : ''}</p>
+    <ul class="mt-2 space-y-1">
+      {bullets.map(bullet => (
+        <li class="text-gray-700 text-sm pl-4 relative before:content-['•'] before:absolute before:left-0 before:text-gray-400">
+          <Fragment set:html={bullet} />
+        </li>
+      ))}
+    </ul>
+  </div>
+</div>

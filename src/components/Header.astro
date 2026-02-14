@@ -1,0 +1,70 @@
+---
+const navItems = [
+  { label: 'CV', href: '/cv/' },
+  { label: 'Portfolio', href: '/portfolio/' },
+  { label: 'Blog', href: '/blog/' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="bg-gray-900 text-white">
+  <nav class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
+    <a href="/" class="text-xl font-bold hover:text-gray-300 transition-colors">
+      Basil Wong
+    </a>
+
+    {/* Mobile menu button */}
+    <button
+      id="menu-toggle"
+      class="md:hidden p-2 rounded hover:bg-gray-800"
+      aria-label="Toggle menu"
+    >
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+    </button>
+
+    {/* Desktop nav */}
+    <ul class="hidden md:flex gap-6">
+      {navItems.map(item => (
+        <li>
+          <a
+            href={item.href}
+            class:list={[
+              'hover:text-gray-300 transition-colors',
+              { 'text-blue-400 font-semibold': currentPath.startsWith(item.href) },
+            ]}
+          >
+            {item.label}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+
+  {/* Mobile nav */}
+  <ul id="mobile-menu" class="hidden md:hidden px-4 pb-4 space-y-2">
+    {navItems.map(item => (
+      <li>
+        <a
+          href={item.href}
+          class:list={[
+            'block py-1 hover:text-gray-300 transition-colors',
+            { 'text-blue-400 font-semibold': currentPath.startsWith(item.href) },
+          ]}
+        >
+          {item.label}
+        </a>
+      </li>
+    ))}
+  </ul>
+</header>
+
+<script>
+  const toggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('mobile-menu');
+  toggle?.addEventListener('click', () => {
+    menu?.classList.toggle('hidden');
+  });
+</script>
