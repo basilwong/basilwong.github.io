@@ -2,7 +2,7 @@
 title: "Small Steps Android App"
 description: "Android App for Tracking Exposure Therapy Progress for Users Suffering from PTSD"
 thumbnail: "/files/logos/ss_logo.png"
-order: 8
+order: 9
 tags: ["react-native", "mobile", "hackathon"]
 repoUrl: "https://github.com/basilwong/small_steps"
 ---

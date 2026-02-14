@@ -2,7 +2,7 @@
 title: "Engineering Physics Robot Competition"
 description: "Fully Autonomous Uber Bots Racing to Pickup Passengers"
 thumbnail: "/files/robot-competition/robot_promo_Moment.jpg"
-order: 4
+order: 5
 tags: ["c", "embedded", "robotics"]
 ---
 

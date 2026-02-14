@@ -2,7 +2,7 @@
 title: "AI Cover Musician"
 description: "Takes a song, interprets it, produces a cover of that song"
 thumbnail: "/files/logos/ai_cover_musician_logo.jpg"
-order: 1
+order: 2
 tags: ["python", "aws", "ml"]
 repoUrl: "https://github.com/basilwong/ai-cover-musician"
 ---

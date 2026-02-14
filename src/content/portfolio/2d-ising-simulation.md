@@ -2,7 +2,7 @@
 title: "2D Ising Model Simulation"
 description: "Visualization of a 2D Ising Model"
 thumbnail: "/files/ising-model/ising_screenshot.PNG"
-order: 7
+order: 8
 tags: ["matlab", "physics", "simulation"]
 repoUrl: "https://github.com/basilwong/monte-carlo-2D-ising"
 ---

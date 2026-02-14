@@ -2,7 +2,7 @@
 title: "Trillium: UBC Orbit"
 description: "Redundant Data Storage for Space"
 thumbnail: "/files/logos/ubc-orbit.png"
-order: 3
+order: 4
 tags: ["c", "embedded", "hardware"]
 ---
 
