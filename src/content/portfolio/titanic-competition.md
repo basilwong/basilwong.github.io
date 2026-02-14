@@ -2,7 +2,7 @@
 title: "Titanic Kaggle Competition"
 description: "Predicting Survival of Titanic Disaster"
 thumbnail: "/files/logos/titanic_logo.png"
-order: 2
+order: 3
 tags: ["python", "ml", "kaggle"]
 repoUrl: "https://www.kaggle.com/basilwong/titanic-competition"
 ---

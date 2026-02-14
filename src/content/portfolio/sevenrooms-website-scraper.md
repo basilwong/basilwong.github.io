@@ -2,7 +2,7 @@
 title: "Sevenrooms Website Scraper"
 description: "Module for scraping sevenrooms.com and logging to google sheets"
 thumbnail: "/files/logos/SevenRooms_Logo.png"
-order: 9
+order: 10
 tags: ["python", "automation", "web-scraping"]
 repoUrl: "https://github.com/basilwong/sevenrooms_scrape"
 ---

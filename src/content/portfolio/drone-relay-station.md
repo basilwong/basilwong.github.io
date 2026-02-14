@@ -2,7 +2,7 @@
 title: "Capstone: Drone Relay Station"
 description: "Relay Station for Beyond Line of Sight Communication"
 thumbnail: "/files/logos/aeriosense_logo.png"
-order: 6
+order: 7
 tags: ["python", "hardware", "drones"]
 ---
 
